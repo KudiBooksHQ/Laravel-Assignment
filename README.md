@@ -20,6 +20,7 @@ An employee management software, nothing fancy it's just a simple SPA app with a
 - PHPSpreadSheet
 - VueJS for the frontend
 - Mailpit
+- OpenApi specification(v3) for documentating **all** your endpoints. Use php 8 **attributes** NOT _docblocks_
 
 ## Features
 
@@ -28,5 +29,8 @@ An employee management software, nothing fancy it's just a simple SPA app with a
 - Attendance management, record when an employee arrives at the office and when they leave
 - Send email(from queue) to the employee when an attendance record is made
 - Generate attendance report(pdf & excel) with daily attendance data
+- Add a clear and concise readme that explains all the needed steps to deploy and run test of the project in a local environment
 
-- **All features must be fully and properly tested!!!**
+**All features must be fully and properly tested!!!**
+
+**PS: You don't need to wait until the deadline to submit your work😉**
